@@ -1,4 +1,4 @@
-# 👋 Hi, I’m *Aarshi Chaturvedi* @aarshichaturvedi
+# 👋 Hi, I’m *Aarshi Chaturvedi* 😊
 
 ## My Social 🪶
 > ### *[Instagram](https://www.instagram.com/societal_archaic/)* 
@@ -21,8 +21,10 @@
  
  [Visual Studio Code](https://code.visualstudio.com/)
  
+ 
+ 
  <details>
-<summary> MY TOP SKILLS DROPDOWN </summary>
+<summary> SKILLS ⬇️  </summary>
 
 | Rank | Languages     |
 |-----:|---------------|
