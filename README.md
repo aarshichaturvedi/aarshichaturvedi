@@ -1,14 +1,25 @@
-👋 Hi, I’m Aarshi Chaturvedi @aarshichaturvedi
+# 👋 Hi, I’m *Aarshi Chaturvedi* @aarshichaturvedi
 
-My Social :  [INSTAGRAM]([https://pages.github.com/](https://www.instagram.com/societal_archaic/))
+## My Social 🪶
+> ### *[Instagram](https://www.instagram.com/societal_archaic/)* 
+> ### *[LinkedIn](https://www.linkedin.com/in/aarshichaturvedi/)*
 
-💻 Currently working at Byju's Future School
-
-✏️ I’m interested in FrontEnd Development 
+💻 Currently working at [Byju's Future School](https://byjus.com/us/futureschool/code/) /
+                          [WhiteHat Jr.](https://www.whitehatjr.com/)
+                          
+                          
+✏️ I’m interested in ***__FrontEnd Development__***
 
 😁 From India
 
-🌱 I’m currently learning PYTHON..specializing in JavaScript , React Native , HTML , CSS , FireBase
+🌱 I’m currently learning [PYTHON](https://www.python.org/)
+ 
+ ⭐Skills :  [JavaScript](www.javascript.com) , [React Native](https://reactnative.dev/) ,
+ [HTML](https://www.w3schools.com/html/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) ,
+ 
+ 💻 Tools : [Google FireBase](https://firebase.google.com/) , [Google Colab](https://colab.research.google.com/)
+ 
+ [Visual Studio Code](https://code.visualstudio.com/)
  
  <details>
 <summary> MY TOP SKILLS DROPDOWN </summary>
