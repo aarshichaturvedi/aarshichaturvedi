@@ -1,8 +1,14 @@
 # 👋 Hi, I’m *Aarshi Chaturvedi* 😊
 
+
 ## My Social 🪶
 > ### *[Instagram](https://www.instagram.com/societal_archaic/)* 
 > ### *[LinkedIn](https://www.linkedin.com/in/aarshichaturvedi/)*
+
+[![](https://img.shields.io/badge/INSTAGRAM-blueviolet?style=for-the-badge)](https://www.instagram.com/societal_archaic/)
+[![](https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge)](https://www.linkedin.com/in/aarshichaturvedi/)
+[![](https://img.shields.io/badge/TWITTER-orange?style=for-the-badge)](https://twitter.com/ashychat)
+
 
 💻 Currently working at [Byju's Future School](https://byjus.com/us/futureschool/code/) /
                           [WhiteHat Jr.](https://www.whitehatjr.com/)
@@ -10,16 +16,16 @@
                           
 ✏️ I’m interested in ***__FrontEnd Development__***
 
-😁 From India
+😁 From [India](https://www.incredibleindia.org/content/incredible-india-v2/en.html)
 
 🌱 I’m currently learning [PYTHON](https://www.python.org/)
  
  ⭐Skills :  [JavaScript](www.javascript.com) , [React Native](https://reactnative.dev/) ,
  [HTML](https://www.w3schools.com/html/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) ,
  
- 💻 Tools : [Google FireBase](https://firebase.google.com/) , [Google Colab](https://colab.research.google.com/)
  
- [Visual Studio Code](https://code.visualstudio.com/)
+ 
+ 💻 Tools : [Google FireBase](https://firebase.google.com/) , [Google Colab](https://colab.research.google.com/), [Visual Studio Code](https://code.visualstudio.com/)
  
  
  
