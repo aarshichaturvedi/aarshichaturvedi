@@ -1,5 +1,7 @@
 👋 Hi, I’m Aarshi Chaturvedi @aarshichaturvedi
 
+My Social :  [INSTAGRAM]([https://pages.github.com/](https://www.instagram.com/societal_archaic/))
+
 💻 Currently working at Byju's Future School
 
 ✏️ I’m interested in FrontEnd Development 
