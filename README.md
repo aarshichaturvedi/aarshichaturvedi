@@ -2,7 +2,6 @@
 
 
 ## My Social 🪶
-> ### *[Instagram](https://www.instagram.com/societal_archaic/)* 
 > ### *[LinkedIn](https://www.linkedin.com/in/aarshichaturvedi/)*
 
 [![](https://img.shields.io/badge/INSTAGRAM-blueviolet?style=for-the-badge)](https://www.instagram.com/societal_archaic/)
