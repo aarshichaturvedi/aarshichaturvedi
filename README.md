@@ -10,12 +10,12 @@
 [![](https://img.shields.io/badge/TWITTER-orange?style=for-the-badge)](https://twitter.com/ashychat)
 
 
-💻 Currently working with [JetLearn](https://www.jetlearn.com/)
+💻 Currently working with [JetLearn](https://www.jetlearn.com/) / 
  Ex : [Byju's Future School](https://byjus.com/us/futureschool/code/) /
       [WhiteHat Jr.](https://www.whitehatjr.com/)
                           
                           
-✏️ Pursuing Master's in AI & ML at 9Indian Institue of Technology)(https://www.iitk.ac.in/)
+✏️ Pursuing Master's in AI & ML at [Indian Institue of Technology](https://www.iitk.ac.in/)
 
 😁 From [India](https://www.incredibleindia.org/content/incredible-india-v2/en.html)
 
