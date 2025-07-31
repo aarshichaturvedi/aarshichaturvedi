@@ -289,10 +289,11 @@
 
 ## 🌐 Connect with Me 🪶
 
-[![](https://img.shields.io/badge/INSTAGRAM-blueviolet?style=for-the-badge)](https://www.instagram.com/societal_archaic/)
-[![](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge)](https://www.linkedin.com/in/aarshichaturvedi/)
-[![](https://img.shields.io/badge/TWITTER-orange?style=for-the-badge)](https://twitter.com/ashychat)
 [![](https://img.shields.io/badge/GITHUB-black?style=for-the-badge)](https://github.com/aarshichaturvedi/)
+[![](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge)](https://www.linkedin.com/in/aarshichaturvedi/)
+[![](https://img.shields.io/badge/INSTAGRAM-blueviolet?style=for-the-badge)](https://www.instagram.com/societal_archaic/)
+[![](https://img.shields.io/badge/TWITTER-black?style=for-the-badge)](https://twitter.com/ashychat)
+
 
 <br><br>
 <p align="center">
