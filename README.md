@@ -287,24 +287,19 @@
 
 
 
-## 🌐 Connect with Me
-
-## My Socials 🪶
+## 🌐 Connect with Me 🪶
 
 [![](https://img.shields.io/badge/INSTAGRAM-blueviolet?style=for-the-badge)](https://www.instagram.com/societal_archaic/)
-[![](https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge)](https://www.linkedin.com/in/aarshichaturvedi/)
+[![](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge)](https://www.linkedin.com/in/aarshichaturvedi/)
 [![](https://img.shields.io/badge/TWITTER-orange?style=for-the-badge)](https://twitter.com/ashychat)
+[![](https://img.shields.io/badge/GITHUB-black?style=for-the-badge)](https://github.com/aarshichaturvedi/)
+
 <br><br>
 <p align="center">
   <a href="mailto:aarshi.chaturvedi@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/aarshichaturvedi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/aarshichaturvedi/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+ 
 </p>
 
 
