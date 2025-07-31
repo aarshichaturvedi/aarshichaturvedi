@@ -1,9 +1,4 @@
-## My Socials 🪶
-> ### *[LinkedIn](https://www.linkedin.com/in/aarshichaturvedi/)*
-
-[![](https://img.shields.io/badge/INSTAGRAM-blueviolet?style=for-the-badge)](https://www.instagram.com/societal_archaic/)
-[![](https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge)](https://www.linkedin.com/in/aarshichaturvedi/)
-[![](https://img.shields.io/badge/TWITTER-orange?style=for-the-badge)](https://twitter.com/ashychat)
+✏️ Master's in AI & ML at [Indian Institue of Technology](https://www.iitk.ac.in/)
 
 
 💻 Currently working with [JetLearn](https://www.jetlearn.com/) / 
@@ -11,9 +6,18 @@
       [WhiteHat Jr.](https://www.whitehatjr.com/)
                           
                           
-✏️ Master's in AI & ML at [Indian Institue of Technology](https://www.iitk.ac.in/)
+
 
 😁 From [India](https://www.incredibleindia.org/content/incredible-india-v2/en.html)
+
+
+## My Socials 🪶
+> ### *[LinkedIn](https://www.linkedin.com/in/aarshichaturvedi/)*
+
+[![](https://img.shields.io/badge/INSTAGRAM-blueviolet?style=for-the-badge)](https://www.instagram.com/societal_archaic/)
+[![](https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge)](https://www.linkedin.com/in/aarshichaturvedi/)
+[![](https://img.shields.io/badge/TWITTER-orange?style=for-the-badge)](https://twitter.com/ashychat)
+
 
 
 <!-- hemangsharma/hemangsharma GitHub Profile README -->
@@ -298,6 +302,9 @@
   </a>
   <a href="https://github.com/aarshichaturvedi/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/societal_archaic/">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram">
   </a>
 </p>
 
