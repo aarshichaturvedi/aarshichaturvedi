@@ -1,26 +1,5 @@
-✏️ Master's in AI & ML at [Indian Institue of Technology](https://www.iitk.ac.in/)
 
-
-💻 Currently working with [JetLearn](https://www.jetlearn.com/) / 
- Ex : [Byju's Future School](https://byjus.com/us/futureschool/code/) /
-      [WhiteHat Jr.](https://www.whitehatjr.com/)
-                          
-                          
-
-
-😁 From [India](https://www.incredibleindia.org/content/incredible-india-v2/en.html)
-
-
-## My Socials 🪶
-> ### *[LinkedIn](https://www.linkedin.com/in/aarshichaturvedi/)*
-
-[![](https://img.shields.io/badge/INSTAGRAM-blueviolet?style=for-the-badge)](https://www.instagram.com/societal_archaic/)
-[![](https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge)](https://www.linkedin.com/in/aarshichaturvedi/)
-[![](https://img.shields.io/badge/TWITTER-orange?style=for-the-badge)](https://twitter.com/ashychat)
-
-
-
-<!-- hemangsharma/hemangsharma GitHub Profile README -->
+<!-- aarshichaturvedi/aarshichaturvedi GitHub Profile README -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1D2671,100:C33764&text=👋%20Hello,%20I'm%20Aarshi%20Chaturvedi!&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=twinkling" alt="Header">
@@ -37,6 +16,28 @@
 - 📊 Specializing in **Artificial Intelligence and Machine Learning , Python, React Native, Web Designing , Game Designing , Data Science and Data Visualization**.
 - 🏆 Passionate about **solving real-world challenges** using data-driven insights.
 - 🌎 Seeking new  opportunities in the field of AI & ML.
+
+<br><br>
+
+✏️ Master's in AI & ML at [Indian Institue of Technology](https://www.iitk.ac.in/)
+
+
+💻 Currently working with [JetLearn](https://www.jetlearn.com/) / 
+ Ex : [Byju's Future School](https://byjus.com/us/futureschool/code/) /
+      [WhiteHat Jr.](https://www.whitehatjr.com/)
+                          
+                          
+
+
+😁 From [India](https://www.incredibleindia.org/content/incredible-india-v2/en.html)
+
+
+## My Socials 🪶
+
+[![](https://img.shields.io/badge/INSTAGRAM-blueviolet?style=for-the-badge)](https://www.instagram.com/societal_archaic/)
+[![](https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge)](https://www.linkedin.com/in/aarshichaturvedi/)
+[![](https://img.shields.io/badge/TWITTER-orange?style=for-the-badge)](https://twitter.com/ashychat)
+
 
 <br><br>
 
