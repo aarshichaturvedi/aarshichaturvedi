@@ -2,7 +2,7 @@
 <!-- aarshichaturvedi/aarshichaturvedi GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Hello,I%20am%20Aarshi%20Chaturvedi.%20Let's%20Connect%20!!" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Hello,I%20am%20Aarshi%20Chaturvedi.%20Let's%20Connect%20:)&descAlign=39&fontAlign=49&fontSize=-1&textBg=false" alt="Header">
 </p>
 
 
