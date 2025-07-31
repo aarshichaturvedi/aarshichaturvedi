@@ -1,5 +1,66 @@
 # 👋 Hi
 
+Tech Stack
+
+Python	
+C++	
+JavaScript	
+React	
+Go	
+Bash	
+HTML5	
+CSS3	
+C
+
+MySQL	
+PostgreSQL	
+MongoDB	
+SQLite	
+Firebase	
+Azure	
+GCP	
+Docker	
+Git
+
+GitHub	
+Flask	
+Django	
+OpenCV	
+TensorFlow	
+PyTorch	
+Scikit-learn	
+NumPy	
+Pandas
+
+Matplotlib	
+Streamlit	
+MLflow	
+Airflow	
+Spark	
+Hadoop	
+Power BI	
+Postman	
+Bash
+
+Snowflake	
+dbt	
+SciPy	
+Statsmodels	
+XGBoost	
+MLflow	
+Plotly	
+Seaborn	
+npm
+
+Tableau	
+Jupyter	
+VSCode	
+Excel	
+Jira	
+MATLAB	
+Keras	
+Node.js	
+Kubernetes
 
 ## My Social 🪶
 > ### *[LinkedIn](https://www.linkedin.com/in/aarshichaturvedi/)*
