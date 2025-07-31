@@ -32,11 +32,6 @@
 😁 From [India](https://www.incredibleindia.org/content/incredible-india-v2/en.html)
 
 
-## My Socials 🪶
-
-[![](https://img.shields.io/badge/INSTAGRAM-blueviolet?style=for-the-badge)](https://www.instagram.com/societal_archaic/)
-[![](https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge)](https://www.linkedin.com/in/aarshichaturvedi/)
-[![](https://img.shields.io/badge/TWITTER-orange?style=for-the-badge)](https://twitter.com/ashychat)
 
 
 <br><br>
@@ -294,6 +289,12 @@
 
 ## 🌐 Connect with Me
 
+## My Socials 🪶
+
+[![](https://img.shields.io/badge/INSTAGRAM-blueviolet?style=for-the-badge)](https://www.instagram.com/societal_archaic/)
+[![](https://img.shields.io/badge/LINKEDIN-yellow?style=for-the-badge)](https://www.linkedin.com/in/aarshichaturvedi/)
+[![](https://img.shields.io/badge/TWITTER-orange?style=for-the-badge)](https://twitter.com/ashychat)
+<br><br>
 <p align="center">
   <a href="mailto:aarshi.chaturvedi@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -304,22 +305,10 @@
   <a href="https://github.com/aarshichaturvedi/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/societal_archaic/">
-    <img src="https://img.shields.io/badge/Instagram
-?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram">
-  </a>
 </p>
 
 
 <br><br>
-
- 
- ⭐Skills :  [Python](www.python.org)  [JavaScript](www.javascript.com) , [React Native](https://reactnative.dev/) ,
- [HTML](https://www.w3schools.com/html/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) ,
- 
- 
- 
- 💻 Tools : [Google FireBase](https://firebase.google.com/) , [Google Colab](https://colab.research.google.com/), [Visual Studio Code](https://code.visualstudio.com/)
  
  
 
